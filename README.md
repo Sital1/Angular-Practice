@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+# AngularPractice
+Angular Practice
+
+
 # Myapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
@@ -27,6 +30,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 =======
-# AngularPractice
-Angular Practice
->>>>>>> ed7b98fe0f1e010c8af652b930a30c5b5a1a3c87
+
+
